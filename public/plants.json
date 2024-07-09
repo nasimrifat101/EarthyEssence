@@ -1,0 +1,442 @@
+[
+  {
+    "id": "1",
+    "name": "Snake Plant",
+    "description": "The Snake Plant, also known as Sansevieria or Mother-in-law's Tongue, is an incredibly hardy and low-maintenance plant. It can thrive in low light conditions and tolerates infrequent watering, making it an excellent choice for beginners or busy individuals. The Snake Plant is well-known for its air-purifying qualities, as it can remove toxins such as formaldehyde and benzene from the air. This plant features tall, upright leaves that are dark green with light gray-green cross-banding. Its architectural shape makes it a great addition to modern interior designs, adding a touch of greenery to any space. The Snake Plant is also highly resistant to pests and diseases, contributing to its reputation as one of the most resilient houseplants available. With minimal care requirements, the Snake Plant is a great option for those looking to enhance their living spaces with a touch of nature.",
+    "category": "Indoor Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Allow soil to dry between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 25.99,
+    "availableQuantity": 15,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Aloe Vera",
+    "description": "Aloe Vera is a popular succulent plant known for its medicinal properties and striking appearance. The plant has thick, fleshy leaves that contain a gel-like substance used for treating minor burns, cuts, and other skin conditions. Aloe Vera is easy to care for, requiring bright indirect light and infrequent watering, making it a perfect addition to any home or office. In addition to its healing properties, Aloe Vera is also an excellent air purifier, helping to remove toxins such as formaldehyde and benzene from the air. This versatile plant can be grown in a variety of containers and is ideal for indoor settings. Its unique rosette shape and soothing green color can complement any decor style. Aloe Vera is also known for its drought tolerance, meaning it can survive periods of neglect. This makes it an ideal plant for both novice and experienced gardeners looking to add a touch of green to their space while benefiting from its natural remedies.",
+    "category": "Succulents",
+    "size": "Small (8-10'')",
+    "light": "Bright indirect light",
+    "water": "Water deeply but infrequently",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 19.99,
+    "availableQuantity": 30,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Spider Plant",
+    "description": "The Spider Plant, scientifically known as Chlorophytum comosum, is one of the most adaptable and easy-to-grow houseplants. It is particularly valued for its air-purifying qualities, as it helps to remove pollutants such as formaldehyde and xylene from indoor air. The Spider Plant features arching green leaves with white variegation, creating a beautiful cascading effect. This plant is highly tolerant of neglect and can thrive in a variety of light conditions, from low to bright indirect light. Spider Plants are also known for producing 'pups' or small offshoots that can be easily propagated to create new plants. With regular watering and occasional feeding, the Spider Plant will grow rapidly and can be enjoyed for many years. Its non-toxic nature makes it a safe choice for homes with pets and children. The Spider Plant is an excellent choice for hanging baskets or pots, and its resilient nature means it can thrive in almost any indoor environment.",
+    "category": "Indoor Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Keep soil evenly moist",
+    "toxicity": "Non-toxic",
+    "petFriendly": "yes",
+    "price": 22.99,
+    "availableQuantity": 25,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Peace Lily",
+    "description": "The Peace Lily, or Spathiphyllum, is a popular houseplant known for its stunning white blooms and lush, dark green leaves. This elegant plant is not only visually appealing but also helps to purify the air by removing toxins such as ammonia, formaldehyde, benzene, and trichloroethylene. Peace Lilies prefer medium to low light conditions and should be kept out of direct sunlight. They thrive in consistently moist soil, but care should be taken to avoid overwatering. The Peace Lily's flowers typically bloom in the spring and can last for several weeks, adding a touch of beauty and tranquility to any room. Peace Lilies are also known for their ability to tolerate neglect, making them ideal for busy individuals or those new to houseplants. However, it should be noted that the Peace Lily is mildly toxic to pets and humans if ingested. Despite this, its striking appearance and air-purifying benefits make it a popular choice for many plant enthusiasts.",
+    "category": "Outdoor Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Keep soil consistently moist",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 24.99,
+    "availableQuantity": 20,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Pothos",
+    "description": "Pothos, also known as Devil's Ivy, is a versatile and low-maintenance houseplant that is perfect for beginners. Its heart-shaped leaves come in various shades of green and yellow, and it can thrive in a variety of lighting conditions, from low light to bright indirect light. Pothos is known for its air-purifying qualities, as it can help remove toxins such as formaldehyde, xylene, and benzene from the air. This plant is very easy to propagate; simply cut a piece of stem with a few leaves and place it in water until roots develop. Pothos is also highly tolerant of neglect, making it an ideal choice for those with a busy lifestyle or who may forget to water their plants regularly. It can be grown in pots, hanging baskets, or trained to climb trellises, adding a touch of greenery to any space. However, it's important to note that Pothos is mildly toxic if ingested, so it should be kept out of reach of pets and children.",
+    "category": "Indoor Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Allow soil to dry between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 18.99,
+    "availableQuantity": 35,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Fiddle Leaf Fig",
+    "description": "The Fiddle Leaf Fig, or Ficus lyrata, is a striking houseplant known for its large, glossy leaves that resemble a fiddle or violin. This plant can make a bold statement in any room with its dramatic foliage and impressive size. Fiddle Leaf Figs prefer bright, indirect light and can tolerate some direct sunlight. They thrive in well-draining soil and should be watered when the top inch of soil feels dry. It's important to rotate the plant regularly to ensure even growth and to keep it in a stable environment, as they can be sensitive to changes in temperature and humidity. While Fiddle Leaf Figs are not the easiest plants to care for, their stunning appearance makes the extra effort worthwhile. This plant is mildly toxic, so it should be kept out of reach of pets and children. With proper care, a Fiddle Leaf Fig can grow to be a towering indoor tree, adding a touch of elegance and natural beauty to any home.",
+    "category": "Outdoor Plants",
+    "size": "Large (3-6 feet)",
+    "light": "Bright indirect light",
+    "water": "Allow soil to dry slightly between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 59.99,
+    "availableQuantity": 10,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Monstera Deliciosa",
+    "description": "Monstera Deliciosa, commonly known as the Swiss Cheese Plant, is a popular houseplant famed for its large, glossy leaves with distinctive splits and holes. This tropical plant can add a dramatic, jungle-like feel to any indoor space. Monstera Deliciosa thrives in bright, indirect light but can also tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil feels dry. This plant also benefits from regular misting to maintain humidity levels, especially in dry indoor environments. Monsteras are relatively easy to care for and can grow quite large, making them a favorite among plant enthusiasts. The plant's unique foliage and fast growth make it a striking addition to any home. However, it should be noted that Monstera Deliciosa is mildly toxic if ingested, so it should be kept out of reach of pets and children.",
+    "category": "Flowering Plants",
+    "size": "Large (3-6 feet)",
+    "light": "Bright indirect light",
+    "water": "Allow soil to dry slightly between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 45.99,
+    "availableQuantity": 12,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "8",
+    "name": "ZZ Plant",
+    "description": "The ZZ Plant, or Zamioculcas zamiifolia, is an attractive, low-maintenance houseplant known for its glossy, dark green leaves that grow in a graceful, upward fashion. This plant is incredibly hardy and can thrive in a wide range of lighting conditions, from low light to bright indirect light. The ZZ Plant is also drought-tolerant, making it perfect for busy individuals or those who may forget to water their plants regularly. It should be watered only when the soil is completely dry, as overwatering can lead to root rot. ZZ Plants are known for their air-purifying qualities, helping to remove toxins such as xylene, toluene, and benzene from the air. This plant is mildly toxic if ingested, so it should be kept out of reach of pets and children. With its striking appearance and minimal care requirements, the ZZ Plant is an excellent choice for both novice and experienced plant enthusiasts looking to add a touch of greenery to their indoor space.",
+    "category": "Flowering Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Allow soil to dry between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 29.99,
+    "availableQuantity": 18,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Rubber Plant",
+    "description": "The Rubber Plant, or Ficus elastica, is a popular houseplant known for its large, glossy leaves and striking appearance. This plant can grow quite tall, making it an excellent choice for adding vertical interest to any room. Rubber Plants prefer bright, indirect light but can also tolerate lower light conditions. They should be watered when the top inch of soil feels dry, and it's important to keep the soil evenly moist but not waterlogged. Regular misting can help maintain humidity levels, especially in dry indoor environments. The Rubber Plant is relatively easy to care for and can be a stunning focal point in any home. However, it is mildly toxic if ingested, so it should be kept out of reach of pets and children. With its bold foliage and easy care requirements, the Rubber Plant is a favorite among plant enthusiasts looking to add a touch of greenery to their space.",
+    "category": "Herb Plants",
+    "size": "Large (3-6 feet)",
+    "light": "Bright indirect light",
+    "water": "Allow soil to dry slightly between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 34.99,
+    "availableQuantity": 22,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Calathea",
+    "description": "Calathea, commonly known as Peacock Plant or Prayer Plant, is an eye-catching houseplant with beautifully patterned leaves. The foliage of Calathea plants features a variety of colors and intricate designs, making them a popular choice for adding visual interest to indoor spaces. Calatheas thrive in low to medium light conditions and prefer high humidity, making them well-suited for bathrooms or kitchens. They should be watered regularly to keep the soil consistently moist, but care should be taken to avoid waterlogging. These plants are non-toxic, making them a safe choice for homes with pets and children. Calatheas are known for their unique behavior of folding their leaves up at night, resembling praying hands, and then reopening them in the morning. This fascinating movement, combined with their stunning foliage, makes Calatheas a favorite among plant enthusiasts looking to add a touch of exotic beauty to their indoor plant collection.",
+    "category": "Herb Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to medium indirect light",
+    "water": "Keep soil consistently moist",
+    "toxicity": "Non-toxic",
+    "petFriendly": "yes",
+    "price": 27.99,
+    "availableQuantity": 15,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Chinese Evergreen",
+    "description": "Chinese Evergreen, or Aglaonema, is a highly adaptable and low-maintenance houseplant known for its attractive foliage and air-purifying qualities. The leaves of Chinese Evergreen plants come in a variety of colors and patterns, including shades of green, silver, pink, and red. This plant can thrive in low to bright indirect light, making it a versatile choice for different indoor environments. Chinese Evergreen prefers well-draining soil and should be watered when the top inch of soil feels dry. It is tolerant of low humidity and can withstand occasional neglect, making it ideal for busy individuals or those new to houseplants. Chinese Evergreen is also known for its ability to remove toxins such as formaldehyde and benzene from the air, contributing to a healthier indoor environment. However, it is mildly toxic if ingested, so it should be kept out of reach of pets and children. With its beautiful foliage and easy care requirements, Chinese Evergreen is a popular choice for adding a touch of greenery to any home.",
+    "category": "Bonsai",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Allow soil to dry between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 26.99,
+    "availableQuantity": 28,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "111",
+    "name": "Snake Plant",
+    "description": "The Snake Plant, also known as Sansevieria or Mother-in-law's Tongue, is an incredibly hardy and low-maintenance plant. It can thrive in low light conditions and tolerates infrequent watering, making it an excellent choice for beginners or busy individuals. The Snake Plant is well-known for its air-purifying qualities, as it can remove toxins such as formaldehyde and benzene from the air. This plant features tall, upright leaves that are dark green with light gray-green cross-banding. Its architectural shape makes it a great addition to modern interior designs, adding a touch of greenery to any space. The Snake Plant is also highly resistant to pests and diseases, contributing to its reputation as one of the most resilient houseplants available. With minimal care requirements, the Snake Plant is a great option for those looking to enhance their living spaces with a touch of nature.",
+    "category": "Bonsai",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Allow soil to dry between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 25.99,
+    "availableQuantity": 15,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "222",
+    "name": "Aloe Vera",
+    "description": "Aloe Vera is a popular succulent plant known for its medicinal properties and striking appearance. The plant has thick, fleshy leaves that contain a gel-like substance used for treating minor burns, cuts, and other skin conditions. Aloe Vera is easy to care for, requiring bright indirect light and infrequent watering, making it a perfect addition to any home or office. In addition to its healing properties, Aloe Vera is also an excellent air purifier, helping to remove toxins such as formaldehyde and benzene from the air. This versatile plant can be grown in a variety of containers and is ideal for indoor settings. Its unique rosette shape and soothing green color can complement any decor style. Aloe Vera is also known for its drought tolerance, meaning it can survive periods of neglect. This makes it an ideal plant for both novice and experienced gardeners looking to add a touch of green to their space while benefiting from its natural remedies.",
+    "category": "Succulents & Cacti",
+    "size": "Small (8-10'')",
+    "light": "Bright indirect light",
+    "water": "Water deeply but infrequently",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 19.99,
+    "availableQuantity": 30,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "333",
+    "name": "Spider Plant",
+    "description": "The Spider Plant, scientifically known as Chlorophytum comosum, is one of the most adaptable and easy-to-grow houseplants. It is particularly valued for its air-purifying qualities, as it helps to remove pollutants such as formaldehyde and xylene from indoor air. The Spider Plant features arching green leaves with white variegation, creating a beautiful cascading effect. This plant is highly tolerant of neglect and can thrive in a variety of light conditions, from low to bright indirect light. Spider Plants are also known for producing 'pups' or small offshoots that can be easily propagated to create new plants. With regular watering and occasional feeding, the Spider Plant will grow rapidly and can be enjoyed for many years. Its non-toxic nature makes it a safe choice for homes with pets and children. The Spider Plant is an excellent choice for hanging baskets or pots, and its resilient nature means it can thrive in almost any indoor environment.",
+    "category": "Fruit Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Keep soil evenly moist",
+    "toxicity": "Non-toxic",
+    "petFriendly": "yes",
+    "price": 22.99,
+    "availableQuantity": 25,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "4444",
+    "name": "Peace Lily",
+    "description": "The Peace Lily, or Spathiphyllum, is a popular houseplant known for its stunning white blooms and lush, dark green leaves. This elegant plant is not only visually appealing but also helps to purify the air by removing toxins such as ammonia, formaldehyde, benzene, and trichloroethylene. Peace Lilies prefer medium to low light conditions and should be kept out of direct sunlight. They thrive in consistently moist soil, but care should be taken to avoid overwatering. The Peace Lily's flowers typically bloom in the spring and can last for several weeks, adding a touch of beauty and tranquility to any room. Peace Lilies are also known for their ability to tolerate neglect, making them ideal for busy individuals or those new to houseplants. However, it should be noted that the Peace Lily is mildly toxic to pets and humans if ingested. Despite this, its striking appearance and air-purifying benefits make it a popular choice for many plant enthusiasts.",
+    "category": "Fruit Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Keep soil consistently moist",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 24.99,
+    "availableQuantity": 20,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "5555",
+    "name": "Pothos",
+    "description": "Pothos, also known as Devil's Ivy, is a versatile and low-maintenance houseplant that is perfect for beginners. Its heart-shaped leaves come in various shades of green and yellow, and it can thrive in a variety of lighting conditions, from low light to bright indirect light. Pothos is known for its air-purifying qualities, as it can help remove toxins such as formaldehyde, xylene, and benzene from the air. This plant is very easy to propagate; simply cut a piece of stem with a few leaves and place it in water until roots develop. Pothos is also highly tolerant of neglect, making it an ideal choice for those with a busy lifestyle or who may forget to water their plants regularly. It can be grown in pots, hanging baskets, or trained to climb trellises, adding a touch of greenery to any space. However, it's important to note that Pothos is mildly toxic if ingested, so it should be kept out of reach of pets and children.",
+    "category": "Aquatic Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Allow soil to dry between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 18.99,
+    "availableQuantity": 35,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "66666",
+    "name": "Fiddle Leaf Fig",
+    "description": "The Fiddle Leaf Fig, or Ficus lyrata, is a striking houseplant known for its large, glossy leaves that resemble a fiddle or violin. This plant can make a bold statement in any room with its dramatic foliage and impressive size. Fiddle Leaf Figs prefer bright, indirect light and can tolerate some direct sunlight. They thrive in well-draining soil and should be watered when the top inch of soil feels dry. It's important to rotate the plant regularly to ensure even growth and to keep it in a stable environment, as they can be sensitive to changes in temperature and humidity. While Fiddle Leaf Figs are not the easiest plants to care for, their stunning appearance makes the extra effort worthwhile. This plant is mildly toxic, so it should be kept out of reach of pets and children. With proper care, a Fiddle Leaf Fig can grow to be a towering indoor tree, adding a touch of elegance and natural beauty to any home.",
+    "category": "Aquatic Plants",
+    "size": "Large (3-6 feet)",
+    "light": "Bright indirect light",
+    "water": "Allow soil to dry slightly between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 59.99,
+    "availableQuantity": 10,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "44447",
+    "name": "Monstera Deliciosa",
+    "description": "Monstera Deliciosa, commonly known as the Swiss Cheese Plant, is a popular houseplant famed for its large, glossy leaves with distinctive splits and holes. This tropical plant can add a dramatic, jungle-like feel to any indoor space. Monstera Deliciosa thrives in bright, indirect light but can also tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil feels dry. This plant also benefits from regular misting to maintain humidity levels, especially in dry indoor environments. Monsteras are relatively easy to care for and can grow quite large, making them a favorite among plant enthusiasts. The plant's unique foliage and fast growth make it a striking addition to any home. However, it should be noted that Monstera Deliciosa is mildly toxic if ingested, so it should be kept out of reach of pets and children.",
+    "category": "Aquatic Plants",
+    "size": "Large (3-6 feet)",
+    "light": "Bright indirect light",
+    "water": "Allow soil to dry slightly between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 45.99,
+    "availableQuantity": 12,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "55558",
+    "name": "ZZ Plant",
+    "description": "The ZZ Plant, or Zamioculcas zamiifolia, is an attractive, low-maintenance houseplant known for its glossy, dark green leaves that grow in a graceful, upward fashion. This plant is incredibly hardy and can thrive in a wide range of lighting conditions, from low light to bright indirect light. The ZZ Plant is also drought-tolerant, making it perfect for busy individuals or those who may forget to water their plants regularly. It should be watered only when the soil is completely dry, as overwatering can lead to root rot. ZZ Plants are known for their air-purifying qualities, helping to remove toxins such as xylene, toluene, and benzene from the air. This plant is mildly toxic if ingested, so it should be kept out of reach of pets and children. With its striking appearance and minimal care requirements, the ZZ Plant is an excellent choice for both novice and experienced plant enthusiasts looking to add a touch of greenery to their indoor space.",
+    "category": "Hanging Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Allow soil to dry between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 29.99,
+    "availableQuantity": 18,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "66669",
+    "name": "Rubber Plant",
+    "description": "The Rubber Plant, or Ficus elastica, is a popular houseplant known for its large, glossy leaves and striking appearance. This plant can grow quite tall, making it an excellent choice for adding vertical interest to any room. Rubber Plants prefer bright, indirect light but can also tolerate lower light conditions. They should be watered when the top inch of soil feels dry, and it's important to keep the soil evenly moist but not waterlogged. Regular misting can help maintain humidity levels, especially in dry indoor environments. The Rubber Plant is relatively easy to care for and can be a stunning focal point in any home. However, it is mildly toxic if ingested, so it should be kept out of reach of pets and children. With its bold foliage and easy care requirements, the Rubber Plant is a favorite among plant enthusiasts looking to add a touch of greenery to their space.",
+    "category": "Hanging Plants",
+    "size": "Large (3-6 feet)",
+    "light": "Bright indirect light",
+    "water": "Allow soil to dry slightly between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 34.99,
+    "availableQuantity": 22,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "17770",
+    "name": "Calathea",
+    "description": "Calathea, commonly known as Peacock Plant or Prayer Plant, is an eye-catching houseplant with beautifully patterned leaves. The foliage of Calathea plants features a variety of colors and intricate designs, making them a popular choice for adding visual interest to indoor spaces. Calatheas thrive in low to medium light conditions and prefer high humidity, making them well-suited for bathrooms or kitchens. They should be watered regularly to keep the soil consistently moist, but care should be taken to avoid waterlogging. These plants are non-toxic, making them a safe choice for homes with pets and children. Calatheas are known for their unique behavior of folding their leaves up at night, resembling praying hands, and then reopening them in the morning. This fascinating movement, combined with their stunning foliage, makes Calatheas a favorite among plant enthusiasts looking to add a touch of exotic beauty to their indoor plant collection.",
+    "category": "Hanging Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to medium indirect light",
+    "water": "Keep soil consistently moist",
+    "toxicity": "Non-toxic",
+    "petFriendly": "yes",
+    "price": 27.99,
+    "availableQuantity": 15,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  },
+  {
+    "id": "11999",
+    "name": "Chinese Evergreen",
+    "description": "Chinese Evergreen, or Aglaonema, is a highly adaptable and low-maintenance houseplant known for its attractive foliage and air-purifying qualities. The leaves of Chinese Evergreen plants come in a variety of colors and patterns, including shades of green, silver, pink, and red. This plant can thrive in low to bright indirect light, making it a versatile choice for different indoor environments. Chinese Evergreen prefers well-draining soil and should be watered when the top inch of soil feels dry. It is tolerant of low humidity and can withstand occasional neglect, making it ideal for busy individuals or those new to houseplants. Chinese Evergreen is also known for its ability to remove toxins such as formaldehyde and benzene from the air, contributing to a healthier indoor environment. However, it is mildly toxic if ingested, so it should be kept out of reach of pets and children. With its beautiful foliage and easy care requirements, Chinese Evergreen is a popular choice for adding a touch of greenery to any home.",
+    "category": "Indoor Plants",
+    "size": "Medium (12-14'')",
+    "light": "Low to bright indirect light",
+    "water": "Allow soil to dry between waterings",
+    "toxicity": "Mildly toxic",
+    "petFriendly": "no",
+    "price": 26.99,
+    "availableQuantity": 28,
+    "images": {
+      "thumbnail": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img1": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img2": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img3": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg",
+      "img4": "https://i.postimg.cc/hvTYH2BY/feey-cLaaxa4DSnc-unsplash.jpg"
+    }
+  }
+]

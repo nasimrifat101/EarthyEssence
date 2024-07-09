@@ -19,7 +19,7 @@ export default {
         }
       },
       animation: {
-        'spin-slow': 'spin 5s linear infinite'
+        'spin-slow': 'spin 30s linear infinite'
       }
     },
   },
