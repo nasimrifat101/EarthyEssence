@@ -4,7 +4,7 @@ import plant from "../../assets/images/pngwing.com (1).png";
 const Banner = () => {
   return (
     <div className="min-h-screen max-w-screen-2xl mx-auto relative">
-      <div className="space-y-5 pt-20">
+      <div className="space-y-5 mt-32">
         <p className="text-9xl font-bold">Nurture</p>
         <p className="text-9xl font-bold">
         Your Space 
